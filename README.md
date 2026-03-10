@@ -13,3 +13,4 @@
 8. [NitiBench: A Benchmark for Thai Legal Question Answering](/Niti-Bench/)
 9. [Qwen3.5: The Hybrid Attention and Agentic Architecture Revolution](/Qwen-3.5/)
 10. [DeepSeek-OCR 2: Visual Causal Flow through DeepEncoder V2](/DeepSeek-OCR2/)
+11. [Reshaping Higher Education Assessment and Learning with Generative AI](/Assessing_Learning_with_GenAI/)
