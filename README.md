@@ -15,3 +15,4 @@
 10. [DeepSeek-OCR 2: Visual Causal Flow through DeepEncoder V2](/DeepSeek-OCR2/)
 11. [Reshaping Higher Education Assessment and Learning with Generative AI](/Assessing_Learning_with_GenAI/)
 12. [The Science Behind Exec-Ready Presentations ](/Executive_Presentation_Science/)
+13. [The Great Intelligence Unwind ](/2028_Intelligence_Crisis/)
