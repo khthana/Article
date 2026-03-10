@@ -17,4 +17,4 @@
 12. [The Science Behind Exec-Ready Presentations ](/Executive_Presentation_Science/)
 13. [The Great Intelligence Unwind ](/2028_Intelligence_Crisis/)
 14. [Prompt Repetition Improves Non-Reasoning LLMs](/Prompt_Repetition/)
-15. 
+15. [Unified Latents: Training Latents via Co-Trained Diffusion Priors](/Unified_Latents/)
