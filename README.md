@@ -10,3 +10,4 @@
 5. [The AI Skill Partnership: Humans, Agents, and Robots ](./Future-of-Work/)
 6. [Aligning Thai Legal LLMs via Group-Relative Policy Optimization](/GRPO_for_Thai_Legal_Reasoning/)
 7. [Self-Play SWE-RL: Autonomous Bug Synthesis and Repair training](/Self-Play-Code/)
+8. [NitiBench: A Benchmark for Thai Legal Question Answering](/Niti-Bench/)
