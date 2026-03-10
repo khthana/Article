@@ -11,3 +11,4 @@
 6. [Aligning Thai Legal LLMs via Group-Relative Policy Optimization](/GRPO_for_Thai_Legal_Reasoning/)
 7. [Self-Play SWE-RL: Autonomous Bug Synthesis and Repair training](/Self-Play-Code/)
 8. [NitiBench: A Benchmark for Thai Legal Question Answering](/Niti-Bench/)
+9. [Qwen3.5: The Hybrid Attention and Agentic Architecture Revolution](/Qwen-3.5/)
