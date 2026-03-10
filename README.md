@@ -7,3 +7,4 @@
 2. [Towards a Science of Scaling Agent Systems](./Scaling-Agent-Systems/)
 3. [SiamGPT: Quality-First Fine-Tuning for Stable Thai Generation ](./SiamGPT/)
 4. [Architecture and Implementation of Depth Anything V3](./Depth-Anything-V3/)
+5. [The AI Skill Partnership: Humans, Agents, and Robots ](./Future-of-Work/)
