@@ -1,4 +1,4 @@
-![Depth-Anything-V3](Depth_Anything_V3)
+![Depth-Anything-V3](Depth_Anything_V3.png)
 
 [กลับไปที่หน้าหลัก](../README.md)
 
