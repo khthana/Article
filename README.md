@@ -19,4 +19,4 @@
 14. [Prompt Repetition Improves Non-Reasoning LLMs](/Prompt_Repetition/)
 15. [Unified Latents: Training Latents via Co-Trained Diffusion Priors](/Unified_Latents/)
 16. [Kimi K2.5: Scaling Multimodal Agentic Intelligence with Agent Swarm](/Kimi_K2.5/)
-17. [Mercury: Ultra-Fast Diffusion Language Models for Coding ](/Mercury2/)
+17. [Mercury: Ultra-Fast Diffusion Language Models for Coding ](/Mercury_2/)
