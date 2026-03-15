@@ -21,3 +21,4 @@
 16. [Kimi K2.5: Scaling Multimodal Agentic Intelligence with Agent Swarm](/Kimi_K2.5/)
 17. [Mercury: Ultra-Fast Diffusion Language Models for Coding ](/Mercury_2/)
 18. [Architecting Agentic AI: A Framework for Agent and Tool Adaptation](/Architecture-Agentic-AI/)
+19. [Architectural Foundations of Autonomous LLM Agents](/AI-Agent-Architecture/)
