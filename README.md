@@ -22,3 +22,4 @@
 17. [Mercury: Ultra-Fast Diffusion Language Models for Coding ](/Mercury_2/)
 18. [Architecting Agentic AI: A Framework for Agent and Tool Adaptation](/Architecture-Agentic-AI/)
 19. [Architectural Foundations of Autonomous LLM Agents](/AI-Agent-Architecture/)
+20. [LLM2VEC-GEN: Encoding Potential Responses for Generative Text Embeddings](/LLM2VEC-GEN/)
