@@ -23,3 +23,4 @@
 18. [Architecting Agentic AI: A Framework for Agent and Tool Adaptation](/Architecture-Agentic-AI/)
 19. [Architectural Foundations of Autonomous LLM Agents](/AI-Agent-Architecture/)
 20. [LLM2VEC-GEN: Encoding Potential Responses for Generative Text Embeddings](/LLM2VEC-GEN/)
+21. [Xiaomi MiMo-V2-Pro: A New Standard for Agentic Intelligence](/Xiaomi-MiMo-V2-Pro/)
