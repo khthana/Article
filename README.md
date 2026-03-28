@@ -25,3 +25,4 @@
 20. [LLM2VEC-GEN: Encoding Potential Responses for Generative Text Embeddings](/LLM2VEC-GEN/)
 21. [Xiaomi MiMo-V2-Pro: A New Standard for Agentic Intelligence](/Xiaomi-MiMo-V2-Pro/)
 22. [Nemotron 3 Super: NVIDIA’s Hybrid Mamba-Transformer MoE Analysis ](/Nemotron_3_Super/)
+23. [Agents of Chaos: Red-Teaming Autonomous AI Ecosystems](/Agents_of_Chaos/)
