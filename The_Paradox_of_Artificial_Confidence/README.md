@@ -1,4 +1,4 @@
-![คำอธิบายรูปภาพ](image1.png)
+![The_Paradox_of_Artificial_Confidence](The_Paradox_of_Artificial_Confidence.png)
 
 [กลับไปที่หน้าหลัก](../README.md)
 
