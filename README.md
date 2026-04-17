@@ -30,5 +30,6 @@
 25. [Rethinking_AGENTS.md The Utility of Context Files for Coding Agents](/Rethinking_AGENTS.md/)
 26. [The Cost of Confidence: How Self-Distillation Suppresses Reasoning Uncertainty ](/The_Paradox_of_Artificial_Confidence/)
 27. [Discovering Multiagent Learning Algorithms with Large Language Models ](/AI_Evolving_AI/)
+28. [Doc-to-LoRA: Instant Context Internalization via Hypernetworks](/Doc-to-LoRA_Instant_Context_Internalization/)
 
 
