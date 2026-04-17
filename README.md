@@ -29,5 +29,6 @@
 24. [OpenClaw-RL: Learning from Next-State Agentic Interaction Signals](/OpenClaw-RL_Continuous_Learning/)
 25. [Rethinking_AGENTS.md The Utility of Context Files for Coding Agents](/Rethinking_AGENTS.md/)
 26. [The Cost of Confidence: How Self-Distillation Suppresses Reasoning Uncertainty ](/The_Paradox_of_Artificial_Confidence/)
+27. [Discovering Multiagent Learning Algorithms with Large Language Models ](/AI_Evolving_AI/)
 
 
