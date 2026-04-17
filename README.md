@@ -32,5 +32,6 @@
 27. [Discovering Multiagent Learning Algorithms with Large Language Models ](/AI_Evolving_AI/)
 28. [Doc-to-LoRA: Instant Context Internalization via Hypernetworks](/Doc-to-LoRA_Instant_Context_Internalization/)
 29. [Claudini: Automated Discovery of Adversarial LLM Attack Algorithms](/Autonomous_AI_Red_Teaming/)
+30. [SenseMath: Evaluating Structural Number Sense in Large Language Models](/Decoding_AI_Number_Sense/)
 
 
