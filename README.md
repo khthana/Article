@@ -27,3 +27,6 @@
 22. [Nemotron 3 Super: NVIDIA’s Hybrid Mamba-Transformer MoE Analysis ](/Nemotron_3_Super/)
 23. [Agents of Chaos: Red-Teaming Autonomous AI Ecosystems](/Agents_of_Chaos/)
 24. [OpenClaw-RL: Learning from Next-State Agentic Interaction Signals](/OpenClaw-RL_Continuous_Learning/)
+25. [Rethinking_AGENTS.md The Utility of Context Files for Coding Agents](/Rethinking_AGENTS.md/)
+
+
