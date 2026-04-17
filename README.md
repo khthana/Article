@@ -28,5 +28,6 @@
 23. [Agents of Chaos: Red-Teaming Autonomous AI Ecosystems](/Agents_of_Chaos/)
 24. [OpenClaw-RL: Learning from Next-State Agentic Interaction Signals](/OpenClaw-RL_Continuous_Learning/)
 25. [Rethinking_AGENTS.md The Utility of Context Files for Coding Agents](/Rethinking_AGENTS.md/)
+26. [The Cost of Confidence: How Self-Distillation Suppresses Reasoning Uncertainty ](/The_Paradox_of_Artificial_Confidence/)
 
 
