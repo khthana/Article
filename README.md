@@ -33,6 +33,7 @@
 28. [Doc-to-LoRA: Instant Context Internalization via Hypernetworks](/Doc-to-LoRA_Instant_Context_Internalization/)
 29. [Claudini: Automated Discovery of Adversarial LLM Attack Algorithms](/Autonomous_AI_Red_Teaming/)
 30. [SenseMath: Evaluating Structural Number Sense in Large Language Models](/Decoding_AI_Number_Sense/)
-31. [Sleeper Cell: Injecting Latent Malice into Tool-Using Agents ](/AI_Sleeper_Cells)
+31. [Sleeper Cell: Injecting Latent Malice into Tool-Using Agents ](/AI_Sleeper_Cells/)
+32. [Step-DeepResearch: Cost-Effective Atomic Capability Agent Training](/Step-DeepResearch/)
 
 
