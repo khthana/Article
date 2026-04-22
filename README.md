@@ -36,5 +36,6 @@
 31. [Sleeper Cell: Injecting Latent Malice into Tool-Using Agents ](/AI_Sleeper_Cells/)
 32. [Step-DeepResearch: Cost-Effective Atomic Capability Agent Training](/Step-DeepResearch/)\
 33. [Bridging the Gap: Hybrid Policy Optimization for Exploratory LLM Agents](/EMPO2_Hybrid_Agent_Evolution/)
+34. [The Prism Hypothesis: Unified Autoencoding for Semantics and Fidelity](/The_Prism_Hypothesis/)
 
 
