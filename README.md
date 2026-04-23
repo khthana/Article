@@ -39,5 +39,6 @@
 34. [The Prism Hypothesis: Unified Autoencoding for Semantics and Fidelity](/The_Prism_Hypothesis/)
 35. [The Architecture of DeepSeek V4: China’s Next AI Frontier](/DeepSeek_V4_Decoded/)
 36. [Mamba-3: Designing State Space Models for Inference Efficiency](/Mamba-3_Inference_Architecture/)
+37. [Think Visually, Reason Textually: Vision-Language Synergy in ARC](/Dual_Lens_Synergy/)
 
 
