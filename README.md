@@ -42,5 +42,6 @@
 37. [Think Visually, Reason Textually: Vision-Language Synergy in ARC](/Dual_Lens_Synergy/)
 38. [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](/The_Cognitive_Blueprint/)
 39. [Meta Chain-of-Thought: Internalizing System 2 Search in LLMs](/The_AI_Reasoning_Blueprint/)
+40. [Meta Chain-of-Thought: Internalizing System 2 Search in LLMs](/The_AI_Reasoning_Blueprint-1/)
 
 
