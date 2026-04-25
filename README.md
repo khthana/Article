@@ -46,5 +46,6 @@
 41. [LeWorldModel: Stable End-to-End Joint Embedding Predictive Architecture](/The_Elegant_World_Model/)
 42. [Self-Distillation Policy Optimization via Rich Feedback](/SDPO_The_Retrospective_Mirror/)
 43. [Experiential Reinforcement Learning: Transforming Feedback into Behavioral Consolidation](/ERL_Cognitive_Evolution/)
+44. [Cycles of Thought: Mechanistic Analysis of Looped Language Models](/Decoding_Looped_AI/)
 
 
