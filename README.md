@@ -45,5 +45,6 @@
 40. [Meta Chain-of-Thought: Internalizing System 2 Search in LLMs](/The_AI_Reasoning_Blueprint-1/)
 41. [LeWorldModel: Stable End-to-End Joint Embedding Predictive Architecture](/The_Elegant_World_Model/)
 42. [Self-Distillation Policy Optimization via Rich Feedback](/SDPO_The_Retrospective_Mirror/)
+43. [Experiential Reinforcement Learning: Transforming Feedback into Behavioral Consolidation](/ERL_Cognitive_Evolution/)
 
 
