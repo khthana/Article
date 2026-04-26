@@ -48,5 +48,6 @@
 43. [Self-Distillation Policy Optimization via Rich Feedback](/SDPO_The_Retrospective_Mirror/)
 44. [Experiential Reinforcement Learning: Transforming Feedback into Behavioral Consolidation](/ERL_Cognitive_Evolution/)
 45. [Cycles of Thought: Mechanistic Analysis of Looped Language Models](/Decoding_Looped_AI/)
+46. [Multimodal Bottleneck Transformers for Video Classification](/Multimodal_Bottleneck_Transformers/)
 
 
