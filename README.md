@@ -49,5 +49,5 @@
 44. [Experiential Reinforcement Learning: Transforming Feedback into Behavioral Consolidation](/ERL_Cognitive_Evolution/)
 45. [Cycles of Thought: Mechanistic Analysis of Looped Language Models](/Decoding_Looped_AI/)
 46. [Multimodal Bottleneck Transformers for Video Classification](/Multimodal_Bottleneck_Transformers/)
-
+47. [DeepCode: Autonomous Information-Flow Management for Agentic Software Engineering](/DeepCode_The_Autonomous_Software_Engineer/)
 
