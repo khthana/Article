@@ -53,4 +53,5 @@
 48. [SemaClaw: Harness Engineering for General-Purpose Personal AI Agents*](./SemaClaw_Agentic_Architecture/)
 49. [ATOKEN: A Unified Visual Tokenizer for Multimodal Understanding and Generation](./ATOKEN_Universal_4D_Vision/)
 50. [Adaptive AI: Paradigms for Agent and Tool Evolution](./Agentic_AI_Architectures/)
+51. [MEMENTO: Teaching LLMs to Manage Their Own Context](./MEMENTO_Self-Managed_Context/)
 
