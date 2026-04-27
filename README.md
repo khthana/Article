@@ -55,4 +55,5 @@
 50. [Adaptive AI: Paradigms for Agent and Tool Evolution*](./Agentic_AI_Architectures/)
 51. [MEMENTO: Teaching LLMs to Manage Their Own Context](./MEMENTO_Self-Managed_Context/)
 52. [Autogenesis: A Self-Evolving Protocol for Autonomous Agents](./Autogenesis_Evolution_Protocol/)
+53. [Harness Engineering: Building Reliable Systems for AI Agents*](./The_AI_Harness_Blueprint/)
 
