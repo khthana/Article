@@ -51,5 +51,5 @@
 46. [Multimodal Bottleneck Transformers for Video Classification](./Multimodal_Bottleneck_Transformers/)
 47. [DeepCode: Autonomous Information-Flow Management for Agentic Software Engineering](./DeepCode_The_Autonomous_Software_Engineer/)
 48. [SemaClaw: Harness Engineering for General-Purpose Personal AI Agents](./SemaClaw_Agentic_Architecture/)
-49. [ATOKEN: A Unified Visual Tokenizer for Multimodal Understanding and Generation)/[./ATOKEN_Universal_4D_Vision/)
+49. [ATOKEN: A Unified Visual Tokenizer for Multimodal Understanding and Generation](./ATOKEN_Universal_4D_Vision/)
 
