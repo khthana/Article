@@ -34,7 +34,7 @@
 29. [Claudini: Automated Discovery of Adversarial LLM Attack Algorithms](./Autonomous_AI_Red_Teaming/)
 30. [SenseMath: Evaluating Structural Number Sense in Large Language Models](./Decoding_AI_Number_Sense/)
 31. [Sleeper Cell: Injecting Latent Malice into Tool-Using Agents ](./AI_Sleeper_Cells/)
-32. [Step-DeepResearch: Cost-Effective Atomic Capability Agent Training](./Step-DeepResearch/)\
+32. [Step-DeepResearch: Cost-Effective Atomic Capability Agent Training*](./Step-DeepResearch/)\
 33. [Bridging the Gap: Hybrid Policy Optimization for Exploratory LLM Agents](./EMPO2_Hybrid_Agent_Evolution/)
 34. [The Prism Hypothesis: Unified Autoencoding for Semantics and Fidelity](./The_Prism_Hypothesis/)
 35. [The Architecture of DeepSeek V4: China’s Next AI Frontier](./DeepSeek_V4_Decoded/)
@@ -49,9 +49,10 @@
 44. [Experiential Reinforcement Learning: Transforming Feedback into Behavioral Consolidation](./ERL_Cognitive_Evolution/)
 45. [Cycles of Thought: Mechanistic Analysis of Looped Language Models](./Decoding_Looped_AI/)
 46. [Multimodal Bottleneck Transformers for Video Classification](./Multimodal_Bottleneck_Transformers/)
-47. [DeepCode: Autonomous Information-Flow Management for Agentic Software Engineering](./DeepCode_The_Autonomous_Software_Engineer/)
+47. [DeepCode: Autonomous Information-Flow Management for Agentic Software Engineering*](./DeepCode_The_Autonomous_Software_Engineer/)
 48. [SemaClaw: Harness Engineering for General-Purpose Personal AI Agents*](./SemaClaw_Agentic_Architecture/)
 49. [ATOKEN: A Unified Visual Tokenizer for Multimodal Understanding and Generation](./ATOKEN_Universal_4D_Vision/)
-50. [Adaptive AI: Paradigms for Agent and Tool Evolution](./Agentic_AI_Architectures/)
+50. [Adaptive AI: Paradigms for Agent and Tool Evolution*](./Agentic_AI_Architectures/)
 51. [MEMENTO: Teaching LLMs to Manage Their Own Context](./MEMENTO_Self-Managed_Context/)
+52. [Autogenesis: A Self-Evolving Protocol for Autonomous Agents](./Autogenesis_Evolution_Protocol/)
 
