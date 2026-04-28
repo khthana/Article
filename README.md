@@ -57,4 +57,5 @@
 52. [Autogenesis: A Self-Evolving Protocol for Autonomous Agents](./Autogenesis_Evolution_Protocol/)
 53. [Harness Engineering: Building Reliable Systems for AI Agents*](./The_AI_Harness_Blueprint/)
 54. [V-JEPA 2.1: Mastering Dense and Global Video Representations](./V-JEPA_2.1_Resolution_Blueprint/)
+55. [PaperOrchestra: A Multi-Agent Framework for Automated AI Research Writing](./PaperOrchestra_Research_Automation/)
 
