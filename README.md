@@ -60,4 +60,5 @@
 55. [PaperOrchestra: A Multi-Agent Framework for Automated AI Research Writing](./PaperOrchestra_Research_Automation/)
 56. [DHPLT: Multilingual Diachronic Corpora for Semantic Change Modelling](./Mapping_Global_Semantic_Change/)
 57. [EGGROLL: Hyperscale Evolution Strategies via Low-Rank Learning](./EGGROLL_Hyperscale_Evolution/)
+58. [Graph-of-Agents: Scaling Multi-LLM Collaboration Through Structured Message Passing](./The_Graph_of_Agents/)
 
