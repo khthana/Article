@@ -59,4 +59,5 @@
 54. [V-JEPA 2.1: Mastering Dense and Global Video Representations](./V-JEPA_2.1_Resolution_Blueprint/)
 55. [PaperOrchestra: A Multi-Agent Framework for Automated AI Research Writing](./PaperOrchestra_Research_Automation/)
 56. [DHPLT: Multilingual Diachronic Corpora for Semantic Change Modelling](./Mapping_Global_Semantic_Change/)
+57. [EGGROLL: Hyperscale Evolution Strategies via Low-Rank Learning](./EGGROLL_Hyperscale_Evolution/)
 
