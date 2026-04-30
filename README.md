@@ -62,4 +62,5 @@
 57. [EGGROLL: Hyperscale Evolution Strategies via Low-Rank Learning](./EGGROLL_Hyperscale_Evolution/)
 58. [Graph-of-Agents: Scaling Multi-LLM Collaboration Through Structured Message Passing](./The_Graph_of_Agents/)
 59. [GSM-Symbolic: Testing the Limits of Mathematical Reasoning in LLMs](./The_AI_Reasoning_Illusion/)
+60. [PaperQA2: Superhuman Synthesis and Factuality in Scientific Research](./Superhuman_Scientific_Synthesis/)
 
