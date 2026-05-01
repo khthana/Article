@@ -64,4 +64,5 @@
 59. [GSM-Symbolic: Testing the Limits of Mathematical Reasoning in LLMs](./The_AI_Reasoning_Illusion/)
 60. [PaperQA2: Superhuman Synthesis and Factuality in Scientific Research](./Superhuman_Scientific_Synthesis/)
 61. [Numina-Lean-Agent: Agentic Reasoning for Formal Mathematics](./Numina_Lean_Agent_Architecture/)
+62. [A Dream of Spring for Open-Weight LLMs](./2026_LLM_Architectural_Revolution/)
 
