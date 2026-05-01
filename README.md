@@ -65,4 +65,5 @@
 60. [PaperQA2: Superhuman Synthesis and Factuality in Scientific Research](./Superhuman_Scientific_Synthesis/)
 61. [Numina-Lean-Agent: Agentic Reasoning for Formal Mathematics](./Numina_Lean_Agent_Architecture/)
 62. [A Dream of Spring for Open-Weight LLMs](./2026_LLM_Architectural_Revolution/)
+63. [The Latent Space: Machine-Native Substrates for Intelligence](./The_Latent_Paradigm/)
 
