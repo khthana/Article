@@ -66,4 +66,5 @@
 61. [Numina-Lean-Agent: Agentic Reasoning for Formal Mathematics](./Numina_Lean_Agent_Architecture/)
 62. [A Dream of Spring for Open-Weight LLMs](./2026_LLM_Architectural_Revolution/)
 63. [The Latent Space: Machine-Native Substrates for Intelligence](./The_Latent_Paradigm/)
+64. [The Cognitive Costs of AI Assistance on Human Persistence](./The_Hidden_Cost_of_AI/)
 
