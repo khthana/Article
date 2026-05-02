@@ -67,4 +67,5 @@
 62. [A Dream of Spring for Open-Weight LLMs](./2026_LLM_Architectural_Revolution/)
 63. [The Latent Space: Machine-Native Substrates for Intelligence](./The_Latent_Paradigm/)
 64. [The Cognitive Costs of AI Assistance on Human Persistence](./The_Hidden_Cost_of_AI/)
+65. [Attention to Mamba: A Recipe for Cross-Architecture Distillation](./Attention_to_Mamba_Distillation/)
 
