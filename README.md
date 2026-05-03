@@ -69,4 +69,5 @@
 64. [The Cognitive Costs of AI Assistance on Human Persistence](./The_Hidden_Cost_of_AI/)
 65. [Attention to Mamba: A Recipe for Cross-Architecture Distillation](./Attention_to_Mamba_Distillation/)
 66. [The Ecosystem Risks of Elicitation Attacks on Frontier Models](./The_Trojan_Blueprint/)
+67. [D-AR: Visual Generation via Sequential Autoregressive Diffusion Tokenization*](./D-AR_Next_Token_Image_Synthesis/)
 
