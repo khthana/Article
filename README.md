@@ -72,4 +72,5 @@
 67. [D-AR: Visual Generation via Sequential Autoregressive Diffusion Tokenization*](./D-AR_Next_Token_Image_Synthesis/)
 68. [DeepEyes: Incentivizing Multi-modal Reasoning via Reinforcement Learning](./DeepEyes_Active_Multimodal_Reasoning/)
 69. [Abstract Chain-of-Thought: Efficient Latent Reasoning with Discrete Tokens](./Abstract-CoT_Latent_Reasoning/)
+70. [OpenCUA: Open Foundations for Computer-Use Agents](./OpenCUA_Agent_Blueprint/)
 
