@@ -75,4 +75,5 @@
 70. [OpenCUA: Open Foundations for Computer-Use Agents](./OpenCUA_Agent_Blueprint/)
 71. [KnowRL: Factuality-Guided Reinforcement Learning for Slow-Thinking Models](./X_Raying_AI_Reasoning/)
 72. [Beyond the Filing Cabinet: The Case for Consolidation](./Memos_Are_Not_Minds/)
+73. [The Architectures of Claude Code and OpenClaw](./Claude_Code_Architecture/)
 
