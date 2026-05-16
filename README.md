@@ -78,4 +78,5 @@
 73. [The Architectures of Claude Code and OpenClaw](./Claude_Code_Architecture/)
 74. [RELGT: Relational Graph Transformer for Deep Learning on Databases](/RELGT_Relational_Deep_Learning/)
 75. [Scaling Laws and Optimization: Pretraining to Reinforcement Learning](./RL_Scaling_Blueprint/)
+76. [GPT-oss from the Ground Up](./GPT-oss_Technical_Blueprint/)
 
