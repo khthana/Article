@@ -80,4 +80,5 @@
 75. [Scaling Laws and Optimization: Pretraining to Reinforcement Learning](./RL_Scaling_Blueprint/)
 76. [GPT-oss from the Ground Up](./GPT-oss_Technical_Blueprint/)
 77. [Muse Spark: Scaling Towards Personal Superintelligence](./Muse_Spark_Personal_Superintelligence/)
+78. [TIR-Judge: Advancing LLM Evaluation through Tool-Integrated Reinforcement Learning](./TIR-Judge_Agentic_Evaluation/)
 
