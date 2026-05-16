@@ -77,4 +77,5 @@
 72. [Beyond the Filing Cabinet: The Case for Consolidation](./Memos_Are_Not_Minds/)
 73. [The Architectures of Claude Code and OpenClaw](./Claude_Code_Architecture/)
 74. [RELGT: Relational Graph Transformer for Deep Learning on Databases](/RELGT_Relational_Deep_Learning/)
+75. [Scaling Laws and Optimization: Pretraining to Reinforcement Learning](./RL_Scaling_Blueprint/)
 
