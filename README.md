@@ -84,4 +84,5 @@
 79. [Autonomous AI Self-Replication and Network Exploitation](./Autonomous_AI_Replication/)
 80. [Scaling Semantic Search Through SLM and Context Compression](./10x_AI_Scaling_Blueprint/)
 81. [AgentEvolver: Efficient Self-Evolving Agent Systems](./AgentEvolver_Autonomous_Evolution/)
+82. [Structured Agentic Software Engineering: Foundational Pillars and Research Roadmap](./Agentic_SE_3.0/)
 
