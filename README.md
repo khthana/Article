@@ -82,4 +82,5 @@
 77. [Muse Spark: Scaling Towards Personal Superintelligence](./Muse_Spark_Personal_Superintelligence/)
 78. [TIR-Judge: Advancing LLM Evaluation through Tool-Integrated Reinforcement Learning](./TIR-Judge_Agentic_Evaluation/)
 79. [Autonomous AI Self-Replication and Network Exploitation](./Autonomous_AI_Replication/)
+80. [Scaling Semantic Search Through SLM and Context Compression](./10x_AI_Scaling_Blueprint/)
 
