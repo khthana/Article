@@ -86,4 +86,5 @@
 81. [AgentEvolver: Efficient Self-Evolving Agent Systems](./AgentEvolver_Autonomous_Evolution/)
 82. [Structured Agentic Software Engineering: Foundational Pillars and Research Roadmap](./Agentic_SE_3.0/)
 83. [Context Engineering for Large Language Models: A Unified Survey](./The_Era_of_Context_Engineering/)
+84. [ZAYA1-8B: High-Efficiency Reasoning via MoE++ and Markovian RSA](./ZAYA1-8B_Precision_Blueprint/)
 
