@@ -85,4 +85,5 @@
 80. [Scaling Semantic Search Through SLM and Context Compression](./10x_AI_Scaling_Blueprint/)
 81. [AgentEvolver: Efficient Self-Evolving Agent Systems](./AgentEvolver_Autonomous_Evolution/)
 82. [Structured Agentic Software Engineering: Foundational Pillars and Research Roadmap](./Agentic_SE_3.0/)
+83. [Context Engineering for Large Language Models: A Unified Survey](./The_Era_of_Context_Engineering/)
 
