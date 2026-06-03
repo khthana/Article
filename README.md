@@ -95,4 +95,5 @@
 90. [Self-Improving Pretraining: Using Post-Trained Models to Pretrain Better Models](./Meta_FAIR_Self-Improving_LLMs/)
 91. [Advances in Efficient Long-Context LLM Architectures](./Next_Gen_LLM_Architectural_Engineering/)
 92. [AgenticQwen: Training Small Models via Dual Data Flywheels](./AgenticQwen_The_Infinite_Engine/)
+93. [Agentic Harness Engineering: Observability-Driven Evolution for Coding Agents](/Agentic_Harness_Engineering/)
 
