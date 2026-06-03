@@ -94,4 +94,5 @@
 89. [ELF: Continuous Diffusion via Embedded Language Flows](./ELF_Fluid_Language_Generation/)
 90. [Self-Improving Pretraining: Using Post-Trained Models to Pretrain Better Models](./Meta_FAIR_Self-Improving_LLMs/)
 91. [Advances in Efficient Long-Context LLM Architectures](./Next_Gen_LLM_Architectural_Engineering/)
+92. [AgenticQwen: Training Small Models via Dual Data Flywheels](./AgenticQwen_The_Infinite_Engine/)
 
