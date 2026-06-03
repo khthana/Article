@@ -89,4 +89,5 @@
 84. [ZAYA1-8B: High-Efficiency Reasoning via MoE++ and Markovian RSA](./ZAYA1-8B_Precision_Blueprint/)
 85. [Token-Superposition Training for Efficient LLM Pre-Training](./Accelerating_LLM_Pre-training_via_Token_Superposition/)
 86. [Disempowerment Patterns in Real-World AI Usage](./AI_Distortion_Dynamics/)
+87. [AutoTTS: Environment-Driven Discovery of Test-Time Scaling Strategies](./AutoTTS_Architect_Blueprint/)
 
