@@ -91,4 +91,5 @@
 86. [Disempowerment Patterns in Real-World AI Usage](./AI_Distortion_Dynamics/)
 87. [AutoTTS: Environment-Driven Discovery of Test-Time Scaling Strategies](./AutoTTS_Architect_Blueprint/)
 88. [LLM Sleep: Offline Recurrence for Improved Memory Consolidation](./LLM_Sleep_and_Deep_Reasoning/)
+89. [ELF: Continuous Diffusion via Embedded Language Flows](./ELF_Fluid_Language_Generation/)
 
