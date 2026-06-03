@@ -96,4 +96,5 @@
 91. [Advances in Efficient Long-Context LLM Architectures](./Next_Gen_LLM_Architectural_Engineering/)
 92. [AgenticQwen: Training Small Models via Dual Data Flywheels](./AgenticQwen_The_Infinite_Engine/)
 93. [Agentic Harness Engineering: Observability-Driven Evolution for Coding Agents](/Agentic_Harness_Engineering/)
+94. [Software Fundamentals in the Age of AI Coding](./Engineering_Over_Code/)
 
