@@ -99,4 +99,5 @@
 94. [Software Fundamentals in the Age of AI Coding](./Engineering_Over_Code/)
 95. [MAI-Thinking-1: Building a Hill-Climbing Machine](./MAI-Thinking-1_Blueprint/)
 96. [HarnessX: A Foundry for Evolvable AI Agent Interfaces](./HarnessX_Evolvable_AI/)
+97. [Agentic Coding and Persistent Returns to Expertise](./The_Agentic_Expert_Advantage/)
 
