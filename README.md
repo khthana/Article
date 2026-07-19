@@ -110,4 +110,5 @@
 105. [Security Architecture of GitHub Agentic Workflow](./AI_Agent_Containment_Architecture/)
 106. [AI for Auto-Research: Roadmap and User Guide](./AI_Research_Capability_Frontiers/)
 107. [Scaling Hierarchical Latent Prediction: A Sample Complexity Theory](./The_Latent_Learning_Revolution/)
+108. [DiffusionGemma: Google’s 26B Parallel Text Diffusion Model](./DiffusionGemma_Parallelism/)
 
