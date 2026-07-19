@@ -103,4 +103,5 @@
 98. [SIA: Co-Evolving Agentic Scaffolds and Model Weights](./SIA_Dual_Engine_AI_Blueprint/)
 99. [Memory Engineering: Moving Beyond Context to Agent Intelligence](./Memory_Engineering/)
 100. [Are We Ready For An Agent-Native Memory System?](./Architecting_Agent-Native_Memory/)
+101. [Grep vs. Vector: How Agent Harnesses Shape Retrieval Success](./Agentic_Search_Blueprints/)
 
