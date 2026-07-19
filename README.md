@@ -107,4 +107,5 @@
 102. [Recursive Language Models: Inference-Time Scaling for Infinite Contexts](./Infinite_Context_Recursive_Language_Models/)
 103. [Self-Harness: LLM-Based Agents Reshaping Their Operating Scaffolding](./Self-Harnessing_Agents/)
 104. [The Case for Specialized Small Agent Models](./The_Modular_AI_Stack/)
+105. [Security Architecture of GitHub Agentic Workflow](./AI_Agent_Containment_Architecture/)
 
