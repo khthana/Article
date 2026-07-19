@@ -100,4 +100,5 @@
 95. [MAI-Thinking-1: Building a Hill-Climbing Machine](./MAI-Thinking-1_Blueprint/)
 96. [HarnessX: A Foundry for Evolvable AI Agent Interfaces](./HarnessX_Evolvable_AI/)
 97. [Agentic Coding and Persistent Returns to Expertise](./The_Agentic_Expert_Advantage/)
+98. [SIA: Co-Evolving Agentic Scaffolds and Model Weights](./SIA_Dual_Engine_AI_Blueprint/)
 
