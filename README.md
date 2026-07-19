@@ -97,4 +97,5 @@
 92. [AgenticQwen: Training Small Models via Dual Data Flywheels](./AgenticQwen_The_Infinite_Engine/)
 93. [Agentic Harness Engineering: Observability-Driven Evolution for Coding Agents](/Agentic_Harness_Engineering/)
 94. [Software Fundamentals in the Age of AI Coding](./Engineering_Over_Code/)
+95. [MAI-Thinking-1: Building a Hill-Climbing Machine](./MAI-Thinking-1_Blueprint/)
 
