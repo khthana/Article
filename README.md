@@ -111,4 +111,5 @@
 106. [AI for Auto-Research: Roadmap and User Guide](./AI_Research_Capability_Frontiers/)
 107. [Scaling Hierarchical Latent Prediction: A Sample Complexity Theory](./The_Latent_Learning_Revolution/)
 108. [DiffusionGemma: Google’s 26B Parallel Text Diffusion Model](./DiffusionGemma_Parallelism/)
+109. [The Bitter Lesson of Agent Harnesses](./The_Agent_Harness/)
 
