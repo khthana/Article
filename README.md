@@ -101,4 +101,5 @@
 96. [HarnessX: A Foundry for Evolvable AI Agent Interfaces](./HarnessX_Evolvable_AI/)
 97. [Agentic Coding and Persistent Returns to Expertise](./The_Agentic_Expert_Advantage/)
 98. [SIA: Co-Evolving Agentic Scaffolds and Model Weights](./SIA_Dual_Engine_AI_Blueprint/)
+99. [Memory Engineering: Moving Beyond Context to Agent Intelligence](./Memory_Engineering/)
 
